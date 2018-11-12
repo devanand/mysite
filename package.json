@@ -1,0 +1,9 @@
+{
+  "name": "java-grunt",
+  "dependencies": {
+    "grunt-cli": "0.1.13",
+    "madge": "~0.5.0",
+    "grunt-madge": "~0.0.6"
+  },
+  "private": true
+}
